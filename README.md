@@ -1,16 +1,27 @@
-## Hi there 👋
+### Bonjour, je suis Oberlin Keyanfe
 
-<!--
-**oberlinkeyanfe-ops/oberlinkeyanfe-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en fin de cycle de Licence en Informatique (Génie Logiciel) à l'Université de Yaoundé I, je me passionne pour le développement logiciel, l'analyse de données et l'intelligence artificielle. Je prépare actuellement mes études supérieures en recherche (Maîtrise).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Compétences & Technologies
+
+* **Langages de programmation :** Python, Java, C, Groovy, OCaml, Prolog
+* **Frameworks & Développement :** Spring Boot, Flask
+* **Analyse de données & Business Intelligence :** Power BI (Analyse et aide à la décision)
+* **Outils & Versioning :** Git, Linux, Jupyter
+
+---
+
+### Projets & Domaines d'intérêt
+
+* **Développement Backend & Web :** Conception d'APIs robustes et d'architectures logicielles (Spring Boot, Flask).
+* **Analyse de Données :** Utilisation de Power BI pour transformer les données brutes en indicateurs décisionnels.
+* **Intelligence Artificielle :** Exploration et mise en pratique de modèles d'apprentissage automatique et de vision par ordinateur.
+
+---
+
+### Me contacter & Réseaux
+
+* **LinkedIn :** [Oberlin KEYANFE DJUNE](https://www.linkedin.com/in/oberlin-keyanfe-djune-a052b0270/)
+* **GitHub :** [@oberlinkeyanfe-ops](https://github.com/oberlinkeyanfe-ops)
