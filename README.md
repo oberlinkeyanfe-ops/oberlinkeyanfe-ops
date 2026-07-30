@@ -23,5 +23,5 @@
 
 ### Me contacter & Réseaux
 
-* **LinkedIn :** [Oberlin KEYANFE DJUNE](https://www.linkedin.com/in/oberlin-keyanfe-djune-a052b0270/)
+* **LinkedIn :** [Oberlin KEYANFE DJUNE](https://www.linkedin.com/in/oberlin-keyanfe)
 * **GitHub :** [@oberlinkeyanfe-ops](https://github.com/oberlinkeyanfe-ops)
