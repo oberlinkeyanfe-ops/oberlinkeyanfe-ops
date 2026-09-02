@@ -1,4 +1,4 @@
-# 👨‍💻 Oberlin KEYANFE DJUNE
+#  Oberlin KEYANFE DJUNE
 
 Étudiant en **Génie Logiciel** à l'Université de Yaoundé I | Passionné par le **Développement Software**, l'**IA** et l'**Analyse de Données**.
 
@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 À Propos
+##  À Propos
 
 Actuellement étudiant en informatique (Génie Logiciel) à l'Université de Yaoundé I, je prépare mes études supérieures en recherche (Maîtrise). Mon objectif est de concevoir des applications web/mobile robustes et de développer des modèles décisionnels axés sur les données et l'intelligence artificielle.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 [<img src="https://img.shields.io/badge/Udemy-Complete_Vue_Developer_Bootcamp_(Pinia,_Vitest)-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="40" alt="Certificat Vue.js">](https://www.udemy.com/certificate/UC-a5f82c6f-ac0c-4c0b-a3fd-5aed079b45e1/)
 
@@ -24,7 +24,7 @@ Actuellement étudiant en informatique (Génie Logiciel) à l'Université de Yao
 
 ---
 
-## 🛠️ Compétences & Technologies
+##  Compétences & Technologies
 
 ### **Langages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,15 +51,15 @@ Actuellement étudiant en informatique (Génie Logiciel) à l'Université de Yao
 
 ---
 
-## 🎯 Projets & Domaines d'intérêt
+##  Projets & Domaines d'intérêt
 
-* 🤖 **Intelligence Artificielle & Vision par Ordinateur :** Exploration et mise en pratique de modèles d'apprentissage automatique.
-* ⚙️ **Développement Backend & Web :** Conception d'APIs RESTful et d'architectures modernes (Spring Boot, Flask, Vue 3).
-* 📊 **Analyse de Données & BI :** Utilisation de Power BI pour transformer des données brutes en tableaux de bord décisionnels.
+*  **Intelligence Artificielle & Vision par Ordinateur :** Exploration et mise en pratique de modèles d'apprentissage automatique.
+*  **Développement Backend & Web :** Conception d'APIs RESTful et d'architectures modernes (Spring Boot, Flask, Vue 3).
+*  **Analyse de Données & BI :** Utilisation de Power BI pour transformer des données brutes en tableaux de bord décisionnels.
 
 ---
 
-## 📬 Me contacter
+##  Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oberlin_KEYANFE_DJUNE-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oberlin-keyanfe)
 [![GitHub](https://img.shields.io/badge/GitHub-@oberlinkeyanfe--ops-181717?style=flat-square&logo=github)](https://github.com/oberlinkeyanfe-ops)
