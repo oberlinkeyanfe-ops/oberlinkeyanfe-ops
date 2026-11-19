@@ -10,12 +10,12 @@ Version française plus bas.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Bank API](https://github.com/oberlinkeyanfe-ops/application-bancaire_API_rest_FULL-) | REST API for a multi-bank system: accounts, transfers, email verification, Mobile Money withdrawal | Java 21, Spring Boot, PostgreSQL, JWT, Docker |
-| [Banking app, testing project](https://github.com/oberlinkeyanfe-ops/TP352) | A banking API used to practice testing: partitioning, boundary values, integration, end-to-end, coverage | Java, Spring Boot, JUnit, H2 |
+| [Bank API](https://github.com/oberlinkeyanfe-ops/bank-api-spring-boot) | REST API for a multi-bank system: accounts, transfers, email verification, Mobile Money withdrawal | Java 21, Spring Boot, PostgreSQL, JWT, Docker |
+| [Banking app, testing project](https://github.com/oberlinkeyanfe-ops/banking-app-testing) | A banking API used to practice testing: partitioning, boundary values, integration, end-to-end, coverage | Java, Spring Boot, JUnit, H2 |
 | [Banque UY1](https://github.com/oberlinkeyanfe-ops/TP352_FINAL) | Full-stack banking web app with an admin panel | Node.js, Express, SQLite, Vue 3, Pinia, Vitest |
 | [Music app](https://github.com/oberlinkeyanfe-ops/music) | Upload, play and comment on songs | Vue 3, Pinia, Firebase, Tailwind CSS |
 | [SOLID principles](https://github.com/oberlinkeyanfe-ops/INF4067) | Bad design vs refactored design for each SOLID principle, with UML diagrams | Java |
-| [Sorting complexity](https://github.com/oberlinkeyanfe-ops/Completely_comparaison) | Insertion sort vs merge sort, counted and plotted ([R version](https://github.com/oberlinkeyanfe-ops/Complexity_with_R)) | Python, R |
+| [Sorting complexity](https://github.com/oberlinkeyanfe-ops/sorting-complexity-python) | Insertion sort vs merge sort, counted and plotted ([R version](https://github.com/oberlinkeyanfe-ops/sorting-complexity-r)) | Python, R |
 
 ## What I'm working on
 
